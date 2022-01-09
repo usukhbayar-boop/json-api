@@ -1,14 +1,49 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "result": [
+    {
+      "name":"BO033",
+      "client_order_ref":"ХӨСҮТ_ЭМ_ТЕНДЕР_2021",
+      "pricelist_id":1,
+      "pricelist_name":"Нийтийн үнийн жагсаалт",
+      "payment_term_id":4,
+      "state":"open",
+      "start_date":"2021-02-24",
+      "end_date":"2022-02-24",
+      "user_id":910,
+      "user_name":"Энхбат Ганбат",
+      "warehouse_id":1,
+      "warehouse_name":"Төв агуулах МТ ХХК",
+      "amount_total":465543648.0,
+    },
+    {
+      "name":"BO033",
+      "client_order_ref":"ХӨСҮТ_ЭМ_ТЕНДЕР_2021",
+      "pricelist_id":1,
+      "pricelist_name":"Нийтийн үнийн жагсаалт",
+      "payment_term_id":4,
+      "state":"open",
+      "start_date":"2021-02-24",
+      "end_date":"2022-02-24",
+      "user_id":910,
+      "user_name":"Энхбат Ганбат",
+      "warehouse_id":1,
+      "warehouse_name":"Төв агуулах МТ ХХК",
+      "amount_total":465543648.0,
+    },
+    {
+      "name":"BO033",
+      "client_order_ref":"ХӨСҮТ_ЭМ_ТЕНДЕР_2021",
+      "pricelist_id":1,
+      "pricelist_name":"Нийтийн үнийн жагсаалт",
+      "payment_term_id":4,
+      "state":"open",
+      "start_date":"2021-02-24",
+      "end_date":"2022-02-24",
+      "user_id":910,
+      "user_name":"Энхбат Ганбат",
+      "warehouse_id":1,
+      "warehouse_name":"Төв агуулах МТ ХХК",
+      "amount_total":465543648.0,
+    }
+  ]
 }
